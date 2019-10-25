@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572024733484,
+  "timestamp": 1572028951451,
   "index": "/bsb/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/bsb/favicon.ico",
         "/bsb/index.html",
-        "/bsb/main-es2015.2af7bba056aa24703c79.js",
-        "/bsb/main-es5.2af7bba056aa24703c79.js",
+        "/bsb/main-es2015.b6af08e4a7a58cc22b8c.js",
+        "/bsb/main-es5.b6af08e4a7a58cc22b8c.js",
         "/bsb/manifest.webmanifest",
         "/bsb/polyfills-es2015.0ef207fb7b4761464817.js",
         "/bsb/polyfills-es5.2b9ce34c123ac007a8ba.js",
@@ -75,9 +75,9 @@
     "/bsb/fa-solid-900.8e4a6dcc692b3887f9f5.eot": "340ee70e87850176047733192ea8109dd6380082",
     "/bsb/fa-solid-900.c2801fb415f03c7b1709.svg": "55a9f6dd285c88c6c9847fee0d5ce127c4c61c52",
     "/bsb/favicon.ico": "5edaf3840c041fbbd5babd3af533732a8c80aaad",
-    "/bsb/index.html": "7bfb904fda3c9f7b674138c69d7474871b9797ac",
-    "/bsb/main-es2015.2af7bba056aa24703c79.js": "8cd86612def84056d7eafda542466220f2b02725",
-    "/bsb/main-es5.2af7bba056aa24703c79.js": "c8ab0adabc1fed4de4a3597892db45da2dc8dcbc",
+    "/bsb/index.html": "3dac42cfeb88154ff6c2be2dd627b5c35ec64dd4",
+    "/bsb/main-es2015.b6af08e4a7a58cc22b8c.js": "d6de352cc04c6e4ae8e280434cddd022661302c5",
+    "/bsb/main-es5.b6af08e4a7a58cc22b8c.js": "44b1bc3adbbdbcd30d83e4bb962500a8ae567be8",
     "/bsb/manifest.webmanifest": "1a82dc98753f28579099020da8f4dbacb72e03dd",
     "/bsb/polyfills-es2015.0ef207fb7b4761464817.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "/bsb/polyfills-es5.2b9ce34c123ac007a8ba.js": "45c51483238468881240579c3fdecd19144cff17",
