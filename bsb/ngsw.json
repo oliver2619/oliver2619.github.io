@@ -1,0 +1,106 @@
+{
+  "configVersion": 1,
+  "timestamp": 1572024733484,
+  "index": "/bsb/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/bsb/favicon.ico",
+        "/bsb/index.html",
+        "/bsb/main-es2015.2af7bba056aa24703c79.js",
+        "/bsb/main-es5.2af7bba056aa24703c79.js",
+        "/bsb/manifest.webmanifest",
+        "/bsb/polyfills-es2015.0ef207fb7b4761464817.js",
+        "/bsb/polyfills-es5.2b9ce34c123ac007a8ba.js",
+        "/bsb/runtime-es2015.e8a2810b3b08d6a1b6aa.js",
+        "/bsb/runtime-es5.e8a2810b3b08d6a1b6aa.js",
+        "/bsb/styles.bdb57fb86284c22f479e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/bsb/assets/icons/icon-128x128.png",
+        "/bsb/assets/icons/icon-192x192.png",
+        "/bsb/assets/icons/icon-384x384.png",
+        "/bsb/assets/icons/icon-512x512.png",
+        "/bsb/assets/icons/icon-72x72.png",
+        "/bsb/assets/icons/icon-96x96.png",
+        "/bsb/fa-brands-400.06147b6cd88c7346cecd.ttf",
+        "/bsb/fa-brands-400.5063b105c7646c8043d5.eot",
+        "/bsb/fa-brands-400.a9c4bb7348f42626454c.svg",
+        "/bsb/fa-brands-400.c5e0f14f88a828261ba0.woff",
+        "/bsb/fa-brands-400.cccc9d29470e879e40eb.woff2",
+        "/bsb/fa-regular-400.65b286af947c0d982ca0.ttf",
+        "/bsb/fa-regular-400.7b9568e6389b1f8ae090.svg",
+        "/bsb/fa-regular-400.c1a866ec0e04a5e1915b.eot",
+        "/bsb/fa-regular-400.c4f508e7c4f01a9eeba7.woff",
+        "/bsb/fa-regular-400.f5f2566b93e89391da4d.woff2",
+        "/bsb/fa-solid-900.0bff33a5fd7ec3902354.ttf",
+        "/bsb/fa-solid-900.333bae208dc363746961.woff",
+        "/bsb/fa-solid-900.44d537ab79f921fde5a2.woff2",
+        "/bsb/fa-solid-900.8e4a6dcc692b3887f9f5.eot",
+        "/bsb/fa-solid-900.c2801fb415f03c7b1709.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/bsb/assets/icons/icon-128x128.png": "bc2564fec8acc2a846e515856088a96104da8bd3",
+    "/bsb/assets/icons/icon-192x192.png": "2fe3480733c9a2f4389c1a2df73824da98266741",
+    "/bsb/assets/icons/icon-384x384.png": "609019afb0d3919475c1c644f25ea585be85cd33",
+    "/bsb/assets/icons/icon-512x512.png": "53a894746340e84fc2323986ab8d7fcc3cc19cdf",
+    "/bsb/assets/icons/icon-72x72.png": "88a3524f4f669fcfef9f3b05cf3f3af430bb6f0a",
+    "/bsb/assets/icons/icon-96x96.png": "541c0ee9bc9e1e17631972210f919a27d2e6c419",
+    "/bsb/fa-brands-400.06147b6cd88c7346cecd.ttf": "c5a1a93f668d15f55deac38b4728f8d901bd4748",
+    "/bsb/fa-brands-400.5063b105c7646c8043d5.eot": "7ed86fe71d4dc31d5edf492f7472d6fb88c3c3c9",
+    "/bsb/fa-brands-400.a9c4bb7348f42626454c.svg": "3e9abaae5dc647f4019a4dcdde1b51f14c2054e8",
+    "/bsb/fa-brands-400.c5e0f14f88a828261ba0.woff": "6900998c1d878e73b2f9ac3a9a9746365d49a54f",
+    "/bsb/fa-brands-400.cccc9d29470e879e40eb.woff2": "5fe986cda635681b4b6bbd6111df2f26d7fca286",
+    "/bsb/fa-regular-400.65b286af947c0d982ca0.ttf": "5d5375ce3ae5b500df039da009ccdaca29d52fc0",
+    "/bsb/fa-regular-400.7b9568e6389b1f8ae090.svg": "dd1b42f8776d9b48adda30b0069aa0e5f18989d3",
+    "/bsb/fa-regular-400.c1a866ec0e04a5e1915b.eot": "1115185386ada5846eecc4e2e1f076ca7617e0cd",
+    "/bsb/fa-regular-400.c4f508e7c4f01a9eeba7.woff": "7626840dab0e2ae37b2d16572a6f183a71a0dd73",
+    "/bsb/fa-regular-400.f5f2566b93e89391da4d.woff2": "be142af0f56062f6e864de121b98054c7b5954fd",
+    "/bsb/fa-solid-900.0bff33a5fd7ec3902354.ttf": "40d9789010f6137e543e4d97025b867707d2f425",
+    "/bsb/fa-solid-900.333bae208dc363746961.woff": "43dae5c2482bfb5d04d896529600eb621181103a",
+    "/bsb/fa-solid-900.44d537ab79f921fde5a2.woff2": "b2879f9e1d0985a96842bf7f55a2b2cc4c636d04",
+    "/bsb/fa-solid-900.8e4a6dcc692b3887f9f5.eot": "340ee70e87850176047733192ea8109dd6380082",
+    "/bsb/fa-solid-900.c2801fb415f03c7b1709.svg": "55a9f6dd285c88c6c9847fee0d5ce127c4c61c52",
+    "/bsb/favicon.ico": "5edaf3840c041fbbd5babd3af533732a8c80aaad",
+    "/bsb/index.html": "7bfb904fda3c9f7b674138c69d7474871b9797ac",
+    "/bsb/main-es2015.2af7bba056aa24703c79.js": "8cd86612def84056d7eafda542466220f2b02725",
+    "/bsb/main-es5.2af7bba056aa24703c79.js": "c8ab0adabc1fed4de4a3597892db45da2dc8dcbc",
+    "/bsb/manifest.webmanifest": "1a82dc98753f28579099020da8f4dbacb72e03dd",
+    "/bsb/polyfills-es2015.0ef207fb7b4761464817.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
+    "/bsb/polyfills-es5.2b9ce34c123ac007a8ba.js": "45c51483238468881240579c3fdecd19144cff17",
+    "/bsb/runtime-es2015.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/bsb/runtime-es5.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/bsb/styles.bdb57fb86284c22f479e.css": "f2c17320aa76dd2ade30d4c6bb058f1d384943b5"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
