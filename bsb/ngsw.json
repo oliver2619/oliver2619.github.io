@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1573929221983,
+  "timestamp": 1578769677426,
   "index": "/bsb/index.html",
   "assetGroups": [
     {
@@ -10,14 +10,14 @@
       "urls": [
         "/bsb/favicon.ico",
         "/bsb/index.html",
-        "/bsb/main-es2015.af7d16573fb203a2b0d1.js",
-        "/bsb/main-es5.af7d16573fb203a2b0d1.js",
+        "/bsb/main-es2015.a0e987e8a1ec97de0ea0.js",
+        "/bsb/main-es5.a0e987e8a1ec97de0ea0.js",
         "/bsb/manifest.webmanifest",
         "/bsb/polyfills-es2015.0ef207fb7b4761464817.js",
         "/bsb/polyfills-es5.2b9ce34c123ac007a8ba.js",
         "/bsb/runtime-es2015.e8a2810b3b08d6a1b6aa.js",
         "/bsb/runtime-es5.e8a2810b3b08d6a1b6aa.js",
-        "/bsb/styles.dc3955b7f9abe02f98ce.css"
+        "/bsb/styles.fa44350e77c4c5c37d8b.css"
       ],
       "patterns": []
     },
@@ -75,15 +75,15 @@
     "/bsb/fa-solid-900.8e4a6dcc692b3887f9f5.eot": "340ee70e87850176047733192ea8109dd6380082",
     "/bsb/fa-solid-900.c2801fb415f03c7b1709.svg": "55a9f6dd285c88c6c9847fee0d5ce127c4c61c52",
     "/bsb/favicon.ico": "5edaf3840c041fbbd5babd3af533732a8c80aaad",
-    "/bsb/index.html": "3086eec3aa2ec1e435b556fe2cd023e4200069f9",
-    "/bsb/main-es2015.af7d16573fb203a2b0d1.js": "c6aec2ebafa25fb875b83ff06913e733caeaf6ac",
-    "/bsb/main-es5.af7d16573fb203a2b0d1.js": "4ab33bc3db245099ec7428e01d324329aae1a084",
+    "/bsb/index.html": "1c0b16cba290c12ae1788473aa7788a4398cd7e5",
+    "/bsb/main-es2015.a0e987e8a1ec97de0ea0.js": "aa544a44c2808aa4f369ebd93e205a8a1436b76f",
+    "/bsb/main-es5.a0e987e8a1ec97de0ea0.js": "d65f9e6dd20c93f1ab32f9584a954cc15fdbe40e",
     "/bsb/manifest.webmanifest": "3c60b9001ed39320ecda0942971ff06ff2197d75",
     "/bsb/polyfills-es2015.0ef207fb7b4761464817.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "/bsb/polyfills-es5.2b9ce34c123ac007a8ba.js": "45c51483238468881240579c3fdecd19144cff17",
     "/bsb/runtime-es2015.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/bsb/runtime-es5.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/bsb/styles.dc3955b7f9abe02f98ce.css": "9edd266e51cfb8037d37bcb00976b20ab0fac0f1"
+    "/bsb/styles.fa44350e77c4c5c37d8b.css": "edc084481be1ee7ede6b3ce72388766b998069b0"
   },
   "navigationUrls": [
     {
