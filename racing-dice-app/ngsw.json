@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1579397843774,
+  "timestamp": 1579432143636,
   "index": "/racing-dice-app/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/racing-dice-app/favicon.ico",
         "/racing-dice-app/index.html",
-        "/racing-dice-app/main-es2015.e7fc7cc395bc0989a6bc.js",
-        "/racing-dice-app/main-es5.e7fc7cc395bc0989a6bc.js",
+        "/racing-dice-app/main-es2015.0073e16db2929f530cf0.js",
+        "/racing-dice-app/main-es5.0073e16db2929f530cf0.js",
         "/racing-dice-app/manifest.webmanifest",
         "/racing-dice-app/polyfills-es2015.0ef207fb7b4761464817.js",
         "/racing-dice-app/polyfills-es5.2b9ce34c123ac007a8ba.js",
@@ -137,9 +137,9 @@
     "/racing-dice-app/assets/sounds/squealing1.mp3": "9060128beb9861564f3d0cba257642e5db47782e",
     "/racing-dice-app/assets/sounds/squealing2.mp3": "a45028b5f14ca6ace7cc15ff37c7c060f1418235",
     "/racing-dice-app/favicon.ico": "8a2d40763a035fa413734b3ae3ad52d410821ced",
-    "/racing-dice-app/index.html": "a9367391c17dff0e97dc598650e020a2cbf32916",
-    "/racing-dice-app/main-es2015.e7fc7cc395bc0989a6bc.js": "85eb0a827f672823fc738ba06343dcd97ad85ef0",
-    "/racing-dice-app/main-es5.e7fc7cc395bc0989a6bc.js": "bf8175de54a044fffcac908567bd511602e76015",
+    "/racing-dice-app/index.html": "e346a977d3d7e1fe7a701849344597c3ed211e12",
+    "/racing-dice-app/main-es2015.0073e16db2929f530cf0.js": "ef9084264490407a83243e5034040679ea78de6c",
+    "/racing-dice-app/main-es5.0073e16db2929f530cf0.js": "e954eb9336d50d20664af13530b4e4dece620dcf",
     "/racing-dice-app/manifest.webmanifest": "239d3b3d471f1d2e8b25d6549014cad416ff50e4",
     "/racing-dice-app/polyfills-es2015.0ef207fb7b4761464817.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "/racing-dice-app/polyfills-es5.2b9ce34c123ac007a8ba.js": "45c51483238468881240579c3fdecd19144cff17",
