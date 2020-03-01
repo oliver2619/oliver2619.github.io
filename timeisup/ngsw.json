@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1563131244141,
+  "timestamp": 1583101463001,
   "index": "/timeisup/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,7 @@
         "/timeisup/es2015-polyfills.bda95d5896422d031328.js",
         "/timeisup/favicon.ico",
         "/timeisup/index.html",
-        "/timeisup/main.65b0118f1572cb16344e.js",
+        "/timeisup/main.12333b650d0eeed2c318.js",
         "/timeisup/polyfills.8bbb231b43165d65d357.js",
         "/timeisup/runtime.26209474bfa8dc87a77c.js",
         "/timeisup/styles.514a686e395dbb894c26.css"
@@ -20,7 +20,7 @@
     },
     {
       "name": "assets",
-      "installMode": "lazy",
+      "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
         "/timeisup/assets/icons/icon-128x128.png",
@@ -67,8 +67,8 @@
     "/timeisup/fa-solid-900.e2675a616b68f446fa62.eot": "e256dff855f792e365f35b3a37877bf9e8fdc98e",
     "/timeisup/fa-solid-900.f14c3b2ff7c821a4c838.ttf": "4e369581eb22f8a36c43f4744ca7fd5a9d769341",
     "/timeisup/favicon.ico": "adb8a9132486b5a9ab394d02ae390aea07a18fc5",
-    "/timeisup/index.html": "8628f2cf84013512ced4954127a92f51964ab45a",
-    "/timeisup/main.65b0118f1572cb16344e.js": "11d75d7d61c7a9d6ef5a760394bdbed10078f98d",
+    "/timeisup/index.html": "68d949f37994adad35d08c029791e0d58c6164cc",
+    "/timeisup/main.12333b650d0eeed2c318.js": "b523ac2fc9f3d993ac1481617ae400b47032d162",
     "/timeisup/polyfills.8bbb231b43165d65d357.js": "ffa449995bf2eba2ccd0a002417214f7eb75e7b5",
     "/timeisup/runtime.26209474bfa8dc87a77c.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
     "/timeisup/styles.514a686e395dbb894c26.css": "9e45ca8155a2d15682f692d67a72b118ddba734a"
