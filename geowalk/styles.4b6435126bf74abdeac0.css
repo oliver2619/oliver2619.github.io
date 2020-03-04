@@ -1,0 +1,1 @@
+body{margin:0}body,button{font-family:Segoe UI,sans-serif;font-size:4.5vh}button{padding:1ex 1em;border-radius:1ex;border:1px solid #000;background-color:#fff;outline:none}button.checked,button:active{background-color:#000;color:#fff}button:focus{box-shadow:0 0 2px 2px red}
