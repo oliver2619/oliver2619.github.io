@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1579651819822,
+  "timestamp": 1596932537339,
   "index": "/racing-dice-app/index.html",
   "assetGroups": [
     {
@@ -10,14 +10,14 @@
       "urls": [
         "/racing-dice-app/favicon.ico",
         "/racing-dice-app/index.html",
-        "/racing-dice-app/main-es2015.833193acd447954f76c3.js",
-        "/racing-dice-app/main-es5.833193acd447954f76c3.js",
+        "/racing-dice-app/main-es2015.89207cb12773e392b2c8.js",
+        "/racing-dice-app/main-es5.89207cb12773e392b2c8.js",
         "/racing-dice-app/manifest.webmanifest",
         "/racing-dice-app/polyfills-es2015.0ef207fb7b4761464817.js",
         "/racing-dice-app/polyfills-es5.2b9ce34c123ac007a8ba.js",
         "/racing-dice-app/runtime-es2015.e8a2810b3b08d6a1b6aa.js",
         "/racing-dice-app/runtime-es5.e8a2810b3b08d6a1b6aa.js",
-        "/racing-dice-app/styles.2263942809019b984e2c.css"
+        "/racing-dice-app/styles.9cb608ef420ab34e0f66.css"
       ],
       "patterns": []
     },
@@ -57,6 +57,7 @@
         "/racing-dice-app/assets/icons/temperature_hot.png",
         "/racing-dice-app/assets/icons/temperature_normal.png",
         "/racing-dice-app/assets/icons/temperature_warm.png",
+        "/racing-dice-app/assets/icons/tick.png",
         "/racing-dice-app/assets/icons/tire.png",
         "/racing-dice-app/assets/icons/traffic_lights_red.png",
         "/racing-dice-app/assets/icons/user_racer.png",
@@ -115,6 +116,7 @@
     "/racing-dice-app/assets/icons/temperature_hot.png": "586fe390a1e0ed63e1ccd6c0e2ce119e4d9f433c",
     "/racing-dice-app/assets/icons/temperature_normal.png": "1e7536dbc1a7a6c367b4033c0b3909a5804c6a72",
     "/racing-dice-app/assets/icons/temperature_warm.png": "5c0872f8fd2aa5d5a9e9c364cf47c36d121f24bd",
+    "/racing-dice-app/assets/icons/tick.png": "ab773ed0e520c814f5b0189dfca27accae3cb313",
     "/racing-dice-app/assets/icons/tire.png": "d28b1e68480278dbff31d2099867a1e6db88364c",
     "/racing-dice-app/assets/icons/traffic_lights_red.png": "80a57b456fd3dda9e16a7742b9f2175da3fc44f6",
     "/racing-dice-app/assets/icons/user_racer.png": "95fc80d99cf2c1909fab2b561d72b06e9abdc552",
@@ -137,15 +139,15 @@
     "/racing-dice-app/assets/sounds/squealing1.mp3": "9060128beb9861564f3d0cba257642e5db47782e",
     "/racing-dice-app/assets/sounds/squealing2.mp3": "a45028b5f14ca6ace7cc15ff37c7c060f1418235",
     "/racing-dice-app/favicon.ico": "8a2d40763a035fa413734b3ae3ad52d410821ced",
-    "/racing-dice-app/index.html": "a46affd1da33eda865f5d539ed19ab96161118dc",
-    "/racing-dice-app/main-es2015.833193acd447954f76c3.js": "bc8d060b2da0665fa0028bb93cf4b812ad851637",
-    "/racing-dice-app/main-es5.833193acd447954f76c3.js": "b74132a70a88caae14932ba32a83b3c017d62de3",
+    "/racing-dice-app/index.html": "5d311cc333ce61ff0acfb46677230f161674e86c",
+    "/racing-dice-app/main-es2015.89207cb12773e392b2c8.js": "5645cdd6c50c96e82f2cd809c5ded4e0e52add75",
+    "/racing-dice-app/main-es5.89207cb12773e392b2c8.js": "97ba934b3dbe8eab0d1e90d1be704e86d2c341bf",
     "/racing-dice-app/manifest.webmanifest": "239d3b3d471f1d2e8b25d6549014cad416ff50e4",
     "/racing-dice-app/polyfills-es2015.0ef207fb7b4761464817.js": "cf5cbfa9134716054fb479ab21362146cdf1f2ff",
     "/racing-dice-app/polyfills-es5.2b9ce34c123ac007a8ba.js": "45c51483238468881240579c3fdecd19144cff17",
     "/racing-dice-app/runtime-es2015.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/racing-dice-app/runtime-es5.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
-    "/racing-dice-app/styles.2263942809019b984e2c.css": "fcfa65d637065b2005263635f2234fa41a058340"
+    "/racing-dice-app/styles.9cb608ef420ab34e0f66.css": "4be725253d0ba6ebdc8416dfa662d26fe40b5f43"
   },
   "navigationUrls": [
     {
