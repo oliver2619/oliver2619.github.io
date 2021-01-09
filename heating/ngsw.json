@@ -1,0 +1,77 @@
+{
+  "configVersion": 1,
+  "timestamp": 1610189789163,
+  "index": "/heating/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/heating/favicon.ico",
+        "/heating/index.html",
+        "/heating/main.f675144a06294923942d.js",
+        "/heating/manifest.webmanifest",
+        "/heating/polyfills.b3b05dce4f05c03b56a3.js",
+        "/heating/runtime.0e49e2b53282f40c8925.js",
+        "/heating/styles.d51591b616aa808f8e99.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/heating/assets/icons/icon64.png",
+        "/heating/fa-solid-900.10ecefc282f2761808bf.ttf",
+        "/heating/fa-solid-900.371dbce0dd46bd4d2033.svg",
+        "/heating/fa-solid-900.3a24a60e7f9c6574864a.eot",
+        "/heating/fa-solid-900.3ceb50e7bcafb577367c.woff2",
+        "/heating/fa-solid-900.46fdbd2d897f8824e63c.woff"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/heating/assets/icons/icon64.png": "a0c004d7aabbd395da5a72478ea8f37f213e1704",
+    "/heating/fa-solid-900.10ecefc282f2761808bf.ttf": "d537bf4cc7273ddb3fd754d53f2b241aeafaefe7",
+    "/heating/fa-solid-900.371dbce0dd46bd4d2033.svg": "36de6a298660ed3feaab37900f7b28c3e981d80e",
+    "/heating/fa-solid-900.3a24a60e7f9c6574864a.eot": "c39b89f7fa7b66931ab02a54002db5ffcbff206c",
+    "/heating/fa-solid-900.3ceb50e7bcafb577367c.woff2": "9b592048b9062b00f0b2dd782d70a95b7dc69b83",
+    "/heating/fa-solid-900.46fdbd2d897f8824e63c.woff": "3b86a0ce15d8d534b65e98560e321a933d310688",
+    "/heating/favicon.ico": "a507c4b9334861f448170c183ad0c9d7ad8b6cb1",
+    "/heating/index.html": "bce7e233d89545a0fe9c04eb64e4e35746e1c500",
+    "/heating/main.f675144a06294923942d.js": "e937c57514fa8d4e6dd5a3658a012804bf42fc7f",
+    "/heating/manifest.webmanifest": "64310936a75d6b9c556a0f4c95ce0bfa174b22f2",
+    "/heating/polyfills.b3b05dce4f05c03b56a3.js": "0d003992512d28c544b0a972ce2ae6b28ebbf5f6",
+    "/heating/runtime.0e49e2b53282f40c8925.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/heating/styles.d51591b616aa808f8e99.css": "95bf299d248bb67ba53ed8b71beb433d8ae1ea47"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
