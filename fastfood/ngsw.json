@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1611104164434,
+  "timestamp": 1611276285546,
   "index": "/fastfood/index.html",
   "assetGroups": [
     {
@@ -11,16 +11,16 @@
         "ignoreVary": true
       },
       "urls": [
-        "/fastfood/5.f5cb0207bddcb528c6d7.js",
-        "/fastfood/6.e62efd5e43ded2dc0394.js",
-        "/fastfood/common.13b6e464d5387af4378e.js",
+        "/fastfood/5.701aec7f94a06dcc49fa.js",
+        "/fastfood/6.53471fae12d7a593b0f9.js",
+        "/fastfood/common.e232d03a4e5adaadae34.js",
         "/fastfood/favicon.ico",
         "/fastfood/index.html",
-        "/fastfood/main.289ab616860e99cddeae.js",
+        "/fastfood/main.36b873386bd4d4322cb4.js",
         "/fastfood/manifest.webmanifest",
         "/fastfood/polyfills.7a965888daba3fbc4385.js",
-        "/fastfood/runtime.232514fd1280e325a156.js",
-        "/fastfood/styles.e69770cc7e50bec1c5d4.css"
+        "/fastfood/runtime.d8a058710a40b2947c90.js",
+        "/fastfood/styles.4ed69949efb934f1d183.css"
       ],
       "patterns": []
     },
@@ -45,6 +45,8 @@
         "/fastfood/assets/images/bread.png",
         "/fastfood/assets/images/city.png",
         "/fastfood/assets/images/coffee.png",
+        "/fastfood/assets/images/coins.png",
+        "/fastfood/assets/images/coins_in_hand.png",
         "/fastfood/assets/images/cola.png",
         "/fastfood/assets/images/farm.png",
         "/fastfood/assets/images/field.png",
@@ -52,15 +54,16 @@
         "/fastfood/assets/images/nugget.png",
         "/fastfood/assets/images/plantation.png",
         "/fastfood/assets/images/potato.png",
-        "/fastfood/assets/images/steak.png"
+        "/fastfood/assets/images/steak.png",
+        "/fastfood/assets/images/users_3.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/fastfood/5.f5cb0207bddcb528c6d7.js": "c0a6e70e612add626db33e7741beafc7a30c83c9",
-    "/fastfood/6.e62efd5e43ded2dc0394.js": "e5999eb979081cde7cfc6e77cefea41069256ab1",
+    "/fastfood/5.701aec7f94a06dcc49fa.js": "e8b48f34b88ff436a0be37c5345ac05a38d3fdb4",
+    "/fastfood/6.53471fae12d7a593b0f9.js": "5e383814f3dcb23fc8cbfa9a45c8235730bcb84f",
     "/fastfood/LobsterTwo-Regular.3fa2e7a5ef647f8da1f2.ttf": "c49d27ffdfb4e75485f79d640dc72903f1bf599c",
     "/fastfood/assets/fonts/LobsterTwo-Regular.ttf": "c49d27ffdfb4e75485f79d640dc72903f1bf599c",
     "/fastfood/assets/icons/icon-128x128.png": "29254b9c0fd2adf3ec676aa0597120da0d04b8d8",
@@ -74,6 +77,8 @@
     "/fastfood/assets/images/bread.png": "271e62eae6be6a5197706b733c0e767c3ae8b386",
     "/fastfood/assets/images/city.png": "c6463aa8f200c0bf9e2342c1315fca097aefa0a9",
     "/fastfood/assets/images/coffee.png": "59457aa1b5d3000a6d91aa313f70d2e732594f04",
+    "/fastfood/assets/images/coins.png": "3fcd8822350e102b82d9dfce75d9654ca836b1e6",
+    "/fastfood/assets/images/coins_in_hand.png": "5ca263ea62295ad2cb012044dcdef822ce27536b",
     "/fastfood/assets/images/cola.png": "63425fc4a8e9eac6d9a223543c6afe58b69f76a4",
     "/fastfood/assets/images/farm.png": "611d3322c7c9c5eb2766c49c7a4b85a63699e02e",
     "/fastfood/assets/images/field.png": "44463fcb4c4dbb5509e5b3f9586724caadeedca1",
@@ -82,14 +87,15 @@
     "/fastfood/assets/images/plantation.png": "2b875947032bad175678dbdeb130eb4488141364",
     "/fastfood/assets/images/potato.png": "c57d18a4a3be0545abbc00f9e33af8fe1f6a5431",
     "/fastfood/assets/images/steak.png": "4894fdd32c3c98d69d96ddc5c549c2e029879d6c",
-    "/fastfood/common.13b6e464d5387af4378e.js": "a9a303c747fab793297c7fbbb4b2eb63b938bada",
+    "/fastfood/assets/images/users_3.png": "c250ec26dc92b876355f6ac6cbcbd007427b7fd3",
+    "/fastfood/common.e232d03a4e5adaadae34.js": "1795621ee9b7ef41369a17389dca1809fae352f1",
     "/fastfood/favicon.ico": "42f140d920e8cf5b559efa5f024bd0b79b972875",
-    "/fastfood/index.html": "922b826d230fd121168f6661092a4633a0faf1b5",
-    "/fastfood/main.289ab616860e99cddeae.js": "c4749854b9cca73747f2143bc7168d06ccb0ca87",
+    "/fastfood/index.html": "dd68d552f8e090d96880958b8552e053a38103b7",
+    "/fastfood/main.36b873386bd4d4322cb4.js": "a8679478b86d452cdba2787a9ab38ef44400ddfb",
     "/fastfood/manifest.webmanifest": "be3ec3a49cc90fb74c35748b59d35592fcb757a8",
     "/fastfood/polyfills.7a965888daba3fbc4385.js": "b6380ed034569010e4ec859b66fbc7c7132365a3",
-    "/fastfood/runtime.232514fd1280e325a156.js": "c87beb38f5c41f6024967217f774ef6461a06747",
-    "/fastfood/styles.e69770cc7e50bec1c5d4.css": "14e9af64f5be2449e845518441d8127e945da308"
+    "/fastfood/runtime.d8a058710a40b2947c90.js": "40ff823247552ce12ee0bd37ce3cb2e68d00dfd9",
+    "/fastfood/styles.4ed69949efb934f1d183.css": "7f301f2720f009f5ebb81e612e366669bd5fa3f3"
   },
   "navigationUrls": [
     {
