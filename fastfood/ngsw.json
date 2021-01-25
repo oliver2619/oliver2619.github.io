@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1611276285546,
+  "timestamp": 1611603068365,
   "index": "/fastfood/index.html",
   "assetGroups": [
     {
@@ -12,15 +12,22 @@
       },
       "urls": [
         "/fastfood/5.701aec7f94a06dcc49fa.js",
+        "/fastfood/5.89fbfe4cfaf53a197268.js",
         "/fastfood/6.53471fae12d7a593b0f9.js",
+        "/fastfood/6.deb2313fd8f99294a64e.js",
         "/fastfood/common.e232d03a4e5adaadae34.js",
         "/fastfood/favicon.ico",
         "/fastfood/index.html",
         "/fastfood/main.36b873386bd4d4322cb4.js",
+        "/fastfood/main.a2f9718327c6a80160b8.js",
         "/fastfood/manifest.webmanifest",
+        "/fastfood/ngsw-worker.js",
         "/fastfood/polyfills.7a965888daba3fbc4385.js",
+        "/fastfood/runtime.017357369903e3f0dc66.js",
         "/fastfood/runtime.d8a058710a40b2947c90.js",
-        "/fastfood/styles.4ed69949efb934f1d183.css"
+        "/fastfood/safety-worker.js",
+        "/fastfood/styles.4ed69949efb934f1d183.css",
+        "/fastfood/worker-basic.min.js"
       ],
       "patterns": []
     },
@@ -63,7 +70,9 @@
   "dataGroups": [],
   "hashTable": {
     "/fastfood/5.701aec7f94a06dcc49fa.js": "e8b48f34b88ff436a0be37c5345ac05a38d3fdb4",
+    "/fastfood/5.89fbfe4cfaf53a197268.js": "2e217422870cc357d1f776accff4bd3896e88d7f",
     "/fastfood/6.53471fae12d7a593b0f9.js": "5e383814f3dcb23fc8cbfa9a45c8235730bcb84f",
+    "/fastfood/6.deb2313fd8f99294a64e.js": "eaac96974adbb59b4e8f80dcf3655a08e934900b",
     "/fastfood/LobsterTwo-Regular.3fa2e7a5ef647f8da1f2.ttf": "c49d27ffdfb4e75485f79d640dc72903f1bf599c",
     "/fastfood/assets/fonts/LobsterTwo-Regular.ttf": "c49d27ffdfb4e75485f79d640dc72903f1bf599c",
     "/fastfood/assets/icons/icon-128x128.png": "29254b9c0fd2adf3ec676aa0597120da0d04b8d8",
@@ -90,12 +99,17 @@
     "/fastfood/assets/images/users_3.png": "c250ec26dc92b876355f6ac6cbcbd007427b7fd3",
     "/fastfood/common.e232d03a4e5adaadae34.js": "1795621ee9b7ef41369a17389dca1809fae352f1",
     "/fastfood/favicon.ico": "42f140d920e8cf5b559efa5f024bd0b79b972875",
-    "/fastfood/index.html": "dd68d552f8e090d96880958b8552e053a38103b7",
+    "/fastfood/index.html": "199bff0aaf794fcdb7e5d97f29db5ff297748e2b",
     "/fastfood/main.36b873386bd4d4322cb4.js": "a8679478b86d452cdba2787a9ab38ef44400ddfb",
-    "/fastfood/manifest.webmanifest": "be3ec3a49cc90fb74c35748b59d35592fcb757a8",
+    "/fastfood/main.a2f9718327c6a80160b8.js": "eb420cfc21908deaf2ffb00993755812f1c9ceee",
+    "/fastfood/manifest.webmanifest": "bfcc31c22413ea5306d96ba7f3f1ec8c53a9e78e",
+    "/fastfood/ngsw-worker.js": "b44316be1c1338e9e8bd30ee40946085916c58e4",
     "/fastfood/polyfills.7a965888daba3fbc4385.js": "b6380ed034569010e4ec859b66fbc7c7132365a3",
+    "/fastfood/runtime.017357369903e3f0dc66.js": "b29f45d810a133c214dc3eef65cecfb284316f76",
     "/fastfood/runtime.d8a058710a40b2947c90.js": "40ff823247552ce12ee0bd37ce3cb2e68d00dfd9",
-    "/fastfood/styles.4ed69949efb934f1d183.css": "7f301f2720f009f5ebb81e612e366669bd5fa3f3"
+    "/fastfood/safety-worker.js": "f532926317210be6e2679d21748dc44a35389807",
+    "/fastfood/styles.4ed69949efb934f1d183.css": "7f301f2720f009f5ebb81e612e366669bd5fa3f3",
+    "/fastfood/worker-basic.min.js": "f532926317210be6e2679d21748dc44a35389807"
   },
   "navigationUrls": [
     {

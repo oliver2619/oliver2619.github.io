@@ -3,7 +3,7 @@
   "short_name": "fastfood",
   "theme_color": "#ff8080",
   "background_color": "#704030",
-  "display": "standalone",
+  "display": "fullscreen",
   "scope": "/oliver2619.github.io/fastfood",
   "start_url": "/oliver2619.github.io/fastfood",
   "icons": [
