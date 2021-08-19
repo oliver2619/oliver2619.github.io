@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1629411532124,
+  "timestamp": 1629411865670,
   "index": "/fastfood/index.html",
   "assetGroups": [
     {
@@ -11,15 +11,15 @@
         "ignoreVary": true
       },
       "urls": [
-        "/fastfood/5.ae5f375bc61d354e5063.js",
+        "/fastfood/5.2bdb27c8caa178cb1429.js",
         "/fastfood/6.6faf2669873333133c30.js",
         "/fastfood/common.fef973292c901e42e9db.js",
         "/fastfood/favicon.ico",
         "/fastfood/index.html",
-        "/fastfood/main.06bd03e3f969a9745f79.js",
+        "/fastfood/main.7ae7b89b363275ed2502.js",
         "/fastfood/manifest.webmanifest",
         "/fastfood/polyfills.7a965888daba3fbc4385.js",
-        "/fastfood/runtime.6005ecf16fba9cb92d9b.js",
+        "/fastfood/runtime.ca341470bbcc10eeb439.js",
         "/fastfood/styles.fa20ec45936077ec7ad7.css"
       ],
       "patterns": []
@@ -64,7 +64,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/fastfood/5.ae5f375bc61d354e5063.js": "5d5ca8c89a9ec99ee59c21ef69e09f1b7aefa044",
+    "/fastfood/5.2bdb27c8caa178cb1429.js": "8f7413dcdbf131d364b934bfa15cd4e9e2945b7c",
     "/fastfood/6.6faf2669873333133c30.js": "8dc5c6ce5c434b3b5ec49e097f6d9ee38e2498dd",
     "/fastfood/LobsterTwo-Regular.3fa2e7a5ef647f8da1f2.ttf": "c49d27ffdfb4e75485f79d640dc72903f1bf599c",
     "/fastfood/assets/fonts/LobsterTwo-Regular.ttf": "c49d27ffdfb4e75485f79d640dc72903f1bf599c",
@@ -94,11 +94,11 @@
     "/fastfood/assets/images/users_3.png": "c250ec26dc92b876355f6ac6cbcbd007427b7fd3",
     "/fastfood/common.fef973292c901e42e9db.js": "b491e2312867d59d34c88dc58fb3f83be53a9432",
     "/fastfood/favicon.ico": "42f140d920e8cf5b559efa5f024bd0b79b972875",
-    "/fastfood/index.html": "991779d643f08c66a1bb99ff6709a82d5d14a6b8",
-    "/fastfood/main.06bd03e3f969a9745f79.js": "e270fed65ce09fe7dacc79fbab745ab61c6b592f",
+    "/fastfood/index.html": "eac55a990f92dd8ea2d7243a1a4a53620b026061",
+    "/fastfood/main.7ae7b89b363275ed2502.js": "041e6ee3cfb3ed4050838efa4366674042ad1149",
     "/fastfood/manifest.webmanifest": "bfcc31c22413ea5306d96ba7f3f1ec8c53a9e78e",
     "/fastfood/polyfills.7a965888daba3fbc4385.js": "b6380ed034569010e4ec859b66fbc7c7132365a3",
-    "/fastfood/runtime.6005ecf16fba9cb92d9b.js": "77fd7681c138badae7f6a01050cfcddc33435865",
+    "/fastfood/runtime.ca341470bbcc10eeb439.js": "675ec69d1014583124517717c0b413bbd163d560",
     "/fastfood/styles.fa20ec45936077ec7ad7.css": "51d61578790c837faba96f4d0dba5071a9de47e5"
   },
   "navigationUrls": [
