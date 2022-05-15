@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 3.0.0 commit date:2021-12-02, commit time:18:35, hash:f1cca3055776</authoring_tool>
+    </contributor>
+    <created>2022-05-07T18:58:20</created>
+    <modified>2022-05-07T18:58:20</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_cameras>
+    <camera id="Camera_001-camera" name="Camera.001">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera-camera" name="Camera">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+  </library_cameras>
+  <library_lights>
+    <light id="Light_001-light" name="Light.001">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0.00111109</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <gamma sid="blender_gamma" type="float">1</gamma>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <dist sid="blender_dist" type="float">29.99998</dist>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <att1 sid="att1" type="float">0</att1>
+          <att2 sid="att2" type="float">1</att2>
+          <falloff_type sid="falloff_type" type="int">2</falloff_type>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <soft sid="soft" type="float">3</soft>
+          <bufsize sid="bufsize" type="int">2880</bufsize>
+          <samp sid="samp" type="int">3</samp>
+          <buffers sid="buffers" type="int">1</buffers>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light-light" name="Light">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0.00111109</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <gamma sid="blender_gamma" type="float">1</gamma>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <dist sid="blender_dist" type="float">29.99998</dist>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <att1 sid="att1" type="float">0</att1>
+          <att2 sid="att2" type="float">1</att2>
+          <falloff_type sid="falloff_type" type="int">2</falloff_type>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <soft sid="soft" type="float">3</soft>
+          <bufsize sid="bufsize" type="int">2880</bufsize>
+          <samp sid="samp" type="int">3</samp>
+          <buffers sid="buffers" type="int">1</buffers>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+  </library_lights>
+  <library_effects>
+    <effect id="Material_001-effect">
+      <profile_COMMON>
+        <newparam sid="dummy_png-surface">
+          <surface type="2D">
+            <init_from>dummy_png</init_from>
+          </surface>
+        </newparam>
+        <newparam sid="dummy_png-sampler">
+          <sampler2D>
+            <source>dummy_png-surface</source>
+          </sampler2D>
+        </newparam>
+        <technique sid="common">
+          <lambert>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <diffuse>
+              <texture texture="dummy_png-sampler" texcoord="Plane-mesh-map-0"/>
+            </diffuse>
+            <index_of_refraction>
+              <float sid="ior">1.45</float>
+            </index_of_refraction>
+          </lambert>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_images>
+    <image id="dummy_png" name="dummy_png">
+      <init_from>dummy.png</init_from>
+    </image>
+  </library_images>
+  <library_materials>
+    <material id="Material_001-material" name="Material.001">
+      <instance_effect url="#Material_001-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Plane-mesh" name="Plane">
+      <mesh>
+        <source id="Plane-mesh-positions">
+          <float_array id="Plane-mesh-positions-array" count="72">-0.5 0.01414203 0.250005 -0.5 -5.126e-6 0.2641421 0.5 0.01414209 0.250005 0.5 -5.0962e-6 0.2641421 -0.5 5.0962e-6 0.2358578 -0.5 -0.01414209 0.2499948 0.5 5.126e-6 0.2358578 0.5 -0.01414203 0.2499948 0.00999999 -0.03999996 0 0.00999999 0.03999996 0 -0.00999999 -0.03999996 0 -0.00999999 0.03999996 0 0.00999999 -0.03999996 1 0.00999999 0.03999996 1 -0.00999999 -0.03999996 1 -0.00999999 0.03999996 1 -0.5 0.01414203 0.7500051 -0.5 -5.126e-6 0.7641422 0.5 0.01414209 0.7500051 0.5 -5.0962e-6 0.7641422 -0.5 5.0962e-6 0.7358579 -0.5 -0.01414209 0.7499949 0.5 5.126e-6 0.7358579 0.5 -0.01414203 0.7499949</float_array>
+          <technique_common>
+            <accessor source="#Plane-mesh-positions-array" count="24" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plane-mesh-normals">
+          <float_array id="Plane-mesh-normals-array" count="66">0 -0.7073639 0.7068496 0 0.7073617 -0.7068518 1 0 0 -1 0 0 0 0.7068529 0.7073607 0 -0.7068514 -0.7073622 0 0 -1 0 0 1 0 1 0 0 -1 0 0 -0.7073647 0.7068488 0 0.7073625 -0.706851 0 0.7068536 0.7073599 0 -0.7068506 -0.7073629 0 -0.7073632 0.7068504 0 0.7073617 -0.7068518 0 0.7068529 0.7073607 0 -0.7068521 -0.7073614 0 -0.707364 0.7068496 0 0.7073625 -0.706851 0 0.7068536 0.7073599 0 -0.7068513 -0.7073622</float_array>
+          <technique_common>
+            <accessor source="#Plane-mesh-normals-array" count="22" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Plane-mesh-map-0">
+          <float_array id="Plane-mesh-map-0-array" count="216">0 0.4999949 1 0.5141422 1 0.4999949 0 0.4858579 1 0.5000051 0 0.5000051 0.4858579 0.4999949 0.5141422 0.5000051 0.4999949 0.5141422 0.4858579 0.4999949 0.5141422 0.5000051 0.5000051 0.4858579 0.5141422 0 0.4999949 1 0.4999949 0 0.4858579 1 0.5000051 0 0.4858579 0 0.46 0.51 0.54 0.49 0.46 0.49 0.54 0.49 0.46 0.51 0.46 0.49 0.46 0 0.54 1 0.54 0 0.54 0 0.46 1 0.46 0 0.51 0 0.49 1 0.49 0 0.49 0 0.51 1 0.51 0 0 0.4999949 0 0.5141422 1 0.5141422 0 0.4858579 1 0.4858579 1 0.5000051 0.4858579 0.4999949 0.5000051 0.4858579 0.5141422 0.5000051 0.4858579 0.4999949 0.4999949 0.5141422 0.5141422 0.5000051 0.5141422 0 0.5141422 1 0.4999949 1 0.4858579 1 0.5000051 1 0.5000051 0 0.46 0.51 0.54 0.51 0.54 0.49 0.54 0.49 0.54 0.51 0.46 0.51 0.46 0 0.46 1 0.54 1 0.54 0 0.54 1 0.46 1 0.51 0 0.51 1 0.49 1 0.49 0 0.49 1 0.51 1 0 0.4999949 1 0.5141422 1 0.4999949 0 0.4858579 1 0.5000051 0 0.5000051 0.4858579 0.4999949 0.5141422 0.5000051 0.4999949 0.5141422 0.4858579 0.4999949 0.5141422 0.5000051 0.5000051 0.4858579 0.5141422 0 0.4999949 1 0.4999949 0 0.4858579 1 0.5000051 0 0.4858579 0 0 0.4999949 0 0.5141422 1 0.5141422 0 0.4858579 1 0.4858579 1 0.5000051 0.4858579 0.4999949 0.5000051 0.4858579 0.5141422 0.5000051 0.4858579 0.4999949 0.4999949 0.5141422 0.5141422 0.5000051 0.5141422 0 0.5141422 1 0.4999949 1 0.4858579 1 0.5000051 1 0.5000051 0</float_array>
+          <technique_common>
+            <accessor source="#Plane-mesh-map-0-array" count="108" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Plane-mesh-vertices">
+          <input semantic="POSITION" source="#Plane-mesh-positions"/>
+        </vertices>
+        <triangles material="Material_001-material" count="36">
+          <input semantic="VERTEX" source="#Plane-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Plane-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Plane-mesh-map-0" offset="2" set="0"/>
+          <p>7 0 0 1 0 1 5 0 2 6 1 3 0 1 4 2 1 5 7 2 6 2 2 7 3 2 8 5 3 9 0 3 10 4 3 11 2 4 12 1 4 13 3 4 14 5 5 15 6 5 16 7 5 17 10 6 18 9 6 19 8 6 20 13 7 21 14 7 22 12 7 23 10 3 24 15 3 25 11 3 26 9 2 27 12 2 28 8 2 29 11 8 30 13 8 31 9 8 32 8 9 33 14 9 34 10 9 35 7 10 36 3 10 37 1 10 38 6 11 39 4 11 40 0 11 41 7 2 42 6 2 43 2 2 44 5 3 45 1 3 46 0 3 47 2 12 48 0 12 49 1 12 50 5 13 51 4 13 52 6 13 53 10 6 54 11 6 55 9 6 56 13 7 57 15 7 58 14 7 59 10 3 60 14 3 61 15 3 62 9 2 63 13 2 64 12 2 65 11 8 66 15 8 67 13 8 68 8 9 69 12 9 70 14 9 71 23 14 72 17 14 73 21 14 74 22 15 75 16 15 76 18 15 77 23 2 78 18 2 79 19 2 80 21 3 81 16 3 82 20 3 83 18 16 84 17 16 85 19 16 86 21 17 87 22 17 88 23 17 89 23 18 90 19 18 91 17 18 92 22 19 93 20 19 94 16 19 95 23 2 96 22 2 97 18 2 98 21 3 99 17 3 100 16 3 101 18 20 102 16 20 103 17 20 104 21 21 105 20 21 106 22 21 107</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Light_001" name="Light.001" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711008 0.5663932 4.076245 0.9551712 -0.1998834 0.2183912 1.005454 -0.055189 0.6045247 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_001-light"/>
+      </node>
+      <node id="Camera_001" name="Camera.001" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_001-camera"/>
+      </node>
+      <node id="Plane" name="Plane" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#Plane-mesh" name="Plane">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Material_001-material" target="#Material_001-material">
+                <bind_vertex_input semantic="Plane-mesh-map-0" input_semantic="TEXCOORD" input_set="0"/>
+              </instance_material>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+      <node id="Camera" name="Camera" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054208 -0.6141704 -6.925791 0 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera-camera"/>
+      </node>
+      <node id="Light" name="Light" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711008 0.5663932 4.076245 0.9551712 -0.1998834 0.2183912 1.005454 -0.05518906 0.6045247 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light-light"/>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>
