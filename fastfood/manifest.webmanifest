@@ -4,8 +4,8 @@
   "theme_color": "#ff8080",
   "background_color": "#704030",
   "display": "fullscreen",
-  "scope": "/oliver2619.github.io/fastfood",
-  "start_url": "/oliver2619.github.io/fastfood",
+  "scope": "https://oliver2619.github.io/fastfood",
+  "start_url": "https://oliver2619.github.io/fastfood",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
