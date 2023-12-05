@@ -1,0 +1,73 @@
+{
+  "configVersion": 1,
+  "timestamp": 1701738440678,
+  "index": "/timeisup2/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/timeisup2/favicon.ico",
+        "/timeisup2/index.html",
+        "/timeisup2/main-MUENWFIB.js",
+        "/timeisup2/manifest.webmanifest",
+        "/timeisup2/polyfills-LZBJRJJE.js",
+        "/timeisup2/styles-P4FLRXSK.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/timeisup2/assets/icons/icon-128x128.png",
+        "/timeisup2/assets/icons/icon-512x512.png",
+        "/timeisup2/assets/icons/icon-64x64.png",
+        "/timeisup2/media/fa-solid-900-7UFRKXGW.woff2",
+        "/timeisup2/media/fa-solid-900-NKG3KPMA.ttf"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/timeisup2/assets/icons/icon-128x128.png": "c8fffe72d3790c7382cb6574138a7bb2c2277186",
+    "/timeisup2/assets/icons/icon-512x512.png": "72f602d0172ae7f3dd61eb8d37db9c77e93c57a4",
+    "/timeisup2/assets/icons/icon-64x64.png": "463f2f5ec3e01dfd3406b26c133fdfb16bd4fe3c",
+    "/timeisup2/favicon.ico": "adb8a9132486b5a9ab394d02ae390aea07a18fc5",
+    "/timeisup2/index.html": "948cc6345e21a1f5f91c8eacb34a120aab55a289",
+    "/timeisup2/main-MUENWFIB.js": "3e96213c79eae1ad2cc5ab387b0c833eb90ad1cb",
+    "/timeisup2/manifest.webmanifest": "87c813005530315736d23affbf75ad3822de0a3c",
+    "/timeisup2/media/fa-solid-900-7UFRKXGW.woff2": "97f0942c6627ddd89fb62170e5cac9a2cbd6c98c",
+    "/timeisup2/media/fa-solid-900-NKG3KPMA.ttf": "e9ace557c3aa403307f1e7a2cef1c035d522b94b",
+    "/timeisup2/polyfills-LZBJRJJE.js": "fda1c82c5c620f1fa442f687b3df45a037f6fcc9",
+    "/timeisup2/styles-P4FLRXSK.css": "5d5af94fe7612bd76471f00a06fc60d76c25c2fb"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
