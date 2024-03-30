@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711810229070,
+  "timestamp": 1711827965719,
   "index": "/timeisup2/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/timeisup2/favicon.ico",
         "/timeisup2/index.html",
-        "/timeisup2/main-ZVOIM4OD.js",
+        "/timeisup2/main-EVFPTIA5.js",
         "/timeisup2/manifest.webmanifest",
         "/timeisup2/polyfills-LZBJRJJE.js",
         "/timeisup2/styles-FV3J6A4P.css"
@@ -43,8 +43,8 @@
     "/timeisup2/assets/icons/icon-512x512.png": "72f602d0172ae7f3dd61eb8d37db9c77e93c57a4",
     "/timeisup2/assets/icons/icon-64x64.png": "463f2f5ec3e01dfd3406b26c133fdfb16bd4fe3c",
     "/timeisup2/favicon.ico": "adb8a9132486b5a9ab394d02ae390aea07a18fc5",
-    "/timeisup2/index.html": "c44090cdad390651019ced542ab4ebc943b967a5",
-    "/timeisup2/main-ZVOIM4OD.js": "5fde247d237be81b95f0c130061da53f3487f1bb",
+    "/timeisup2/index.html": "a790788ec17e3885b62d51fb68e3861e6f9f9627",
+    "/timeisup2/main-EVFPTIA5.js": "061eda0926683647a0b96c751e5350f3fcd7a4d7",
     "/timeisup2/manifest.webmanifest": "87c813005530315736d23affbf75ad3822de0a3c",
     "/timeisup2/media/fa-solid-900-7UFRKXGW.woff2": "97f0942c6627ddd89fb62170e5cac9a2cbd6c98c",
     "/timeisup2/media/fa-solid-900-NKG3KPMA.ttf": "e9ace557c3aa403307f1e7a2cef1c035d522b94b",
