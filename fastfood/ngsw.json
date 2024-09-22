@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1726999162499,
+  "timestamp": 1726999636909,
   "index": "/fastfood/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/fastfood/favicon.ico",
         "/fastfood/index.html",
-        "/fastfood/main-7WBFNWGM.js",
+        "/fastfood/main-AEJMHIES.js",
         "/fastfood/manifest.webmanifest",
         "/fastfood/polyfills-SCHOHYNV.js",
         "/fastfood/styles-4XG523AW.css"
@@ -86,8 +86,8 @@
     "/fastfood/images/potato.png": "c57d18a4a3be0545abbc00f9e33af8fe1f6a5431",
     "/fastfood/images/steak.png": "4894fdd32c3c98d69d96ddc5c549c2e029879d6c",
     "/fastfood/images/users_3.png": "c250ec26dc92b876355f6ac6cbcbd007427b7fd3",
-    "/fastfood/index.html": "5a24abb273fcac46fa5a44a7dac10fd623f18059",
-    "/fastfood/main-7WBFNWGM.js": "9180cd9cc8ce65458a479a5542b1118d6328aa58",
+    "/fastfood/index.html": "630453dc54cffea3f2220cc67dc8bbab709baf58",
+    "/fastfood/main-AEJMHIES.js": "537dbd67c56bff3420c8b5f35f95f0d3e0af9573",
     "/fastfood/manifest.webmanifest": "107b27de94385568e520320795da06c5b4a5cb19",
     "/fastfood/media/LobsterTwo-Regular-AEXKBSE3.ttf": "c49d27ffdfb4e75485f79d640dc72903f1bf599c",
     "/fastfood/polyfills-SCHOHYNV.js": "d45c76c5960bab3ace7fd6d211b9579456241f8a",
