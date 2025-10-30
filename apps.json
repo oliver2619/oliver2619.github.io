@@ -1,0 +1,67 @@
+[{
+    "name": "Bullshit Bingo",
+    "url": "bsb/index.html",
+    "tags": ["Game", "Mobile", "PC", "PWA"],
+    "stage": "Release",
+    "description": "A game frequently played during boring meetings."
+}, {
+    "name": "Cards",
+    "url": "cards/index.html",
+    "tags": ["Game", "Mobile", "PC"],
+    "stage": "Release",
+    "description": "Tschau Sepp, Trumpfwechsel"
+}, {
+    "name": "Cube Islands",
+    "url": "cubeIslands/index.html",
+    "tags": ["3d", "Game", "PC"],
+    "stage": "Release",
+    "description": "A 3d game similar to Minecraft. Needs 3d acceleration, mouse and keyboard."
+}, {
+    "name": "Fastfood",
+    "url": "fastfood/index.html",
+    "tags": ["Game", "Mobile", "PC", "PWA"],
+    "stage": "Develop",
+    "description": "A strategy game like Settlers of Catan but is about fast food."
+}, {
+    "name": "Geowalk",
+    "url": "geowalk/index.html",
+    "tags": ["App", "Mobile"],
+    "stage": "Develop",
+    "description": "Just for some tests."
+}, {
+    "name": "Heating",
+    "url": "heating/index.html",
+    "tags": ["App", "Mobile", "PC"],
+    "stage": "Develop",
+    "description": "Utility that supports waiting for long running heating or freezing processes to finish."
+}, {
+    "name": "Numbers",
+    "url": "numbers/index.html",
+    "tags": ["Game", "Mobile", "PC", "PWA"],
+    "stage": "Release",
+    "description": "Like 2048 but with jokers."
+}, {
+    "name": "Othello",
+    "url": "othello/index.html",
+    "tags": ["Game", "Mobile", "PC"],
+    "stage": "Alpha",
+    "description": "Board game."
+}, {
+    "name": "Racing",
+    "url": "racing-dice-app/index.html",
+    "tags": ["Game", "Mobile", "PC"],
+    "stage": "Develop",
+    "description": "Formula I. Mixture of physical board game and mobile app. Requires the physical board."
+}, {
+    "name": "Schnick Schnack Schnuck",
+    "url": "schnickschnackschnuck/index.html",
+    "tags": ["Game", "Mobile", "PC"],
+    "stage": "Alpha",
+    "description": "If you are really bored."
+}, {
+    "name": "Time is up",
+    "url": "timeisup2/index.html",
+    "tags": ["App", "Mobile", "PC", "PWA"],
+    "stage": "Release",
+    "description": "Time booking app, that stores the time bookings for projects and tasks in the local browser cache."
+}]
