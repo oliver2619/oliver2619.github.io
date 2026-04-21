@@ -47,6 +47,12 @@
     "stage": "Alpha",
     "description": "Board game."
 }, {
+    "name": "Queens",
+    "url": "queens/index.html",
+    "tags": ["Game", "Mobile", "PC"],
+    "stage": "Alpha",
+    "description": "Puzzle game with chess figures."
+}, {
     "name": "Racing",
     "url": "racing-dice-app/index.html",
     "tags": ["Game", "Mobile", "PC"],
