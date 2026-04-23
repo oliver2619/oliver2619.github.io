@@ -1,1 +1,0 @@
-import"./chunk-2NFLSA4Y.js";var e={back:"Back",cancel:"Cancel","game.reset":"Reset","game.undo":"Undo","menu.newGame":"New game","menu.newGame.mode":"Mode","menu.newGame.mode.KINGS":"Kings","menu.newGame.mode.QUEENS":"Queens","menu.newGame.mode.ROOKS":"Rooks","menu.newGame.size":"Board size","menu.newGame.start":"Start","menu.rules":"Rules",title:"Queens"};export{e as EN};
