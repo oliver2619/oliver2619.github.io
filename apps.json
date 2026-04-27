@@ -1,7 +1,7 @@
 [{
     "name": "Bullshit Bingo",
     "url": "bsb/index.html",
-    "tags": ["Game", "Mobile", "PC", "PWA"],
+    "tags": ["Game", "Mobile", "PC"],
     "stage": "Release",
     "description": "A game frequently played during boring meetings.",
     "caps": []
@@ -22,7 +22,7 @@
 }, {
     "name": "Fastfood",
     "url": "fastfood/index.html",
-    "tags": ["Game", "Mobile", "PC", "PWA"],
+    "tags": ["Game", "Mobile", "PC"],
     "stage": "Develop",
     "description": "A strategy game like Settlers of Catan but is about fast food.",
     "caps": []
@@ -36,7 +36,7 @@
 }, {
     "name": "Numbers",
     "url": "numbers/index.html",
-    "tags": ["Game", "Mobile", "PC", "PWA"],
+    "tags": ["Game", "Mobile", "PC"],
     "stage": "Release",
     "description": "Like 2048 but with jokers.",
     "caps": []
@@ -44,14 +44,14 @@
     "name": "Othello",
     "url": "othello/index.html",
     "tags": ["Game", "Mobile", "PC"],
-    "stage": "Alpha",
+    "stage": "Release",
     "description": "Board game.",
     "caps": ["wasm"]
 }, {
     "name": "Queens",
     "url": "queens/index.html",
     "tags": ["Game", "Mobile", "PC"],
-    "stage": "Alpha",
+    "stage": "Release",
     "description": "Puzzle game with chess figures.",
     "caps": []
 }, {
@@ -71,7 +71,7 @@
 }, {
     "name": "Time is up",
     "url": "timeisup2/index.html",
-    "tags": ["App", "Mobile", "PC", "PWA"],
+    "tags": ["App", "Mobile", "PC"],
     "stage": "Release",
     "description": "Time booking app, that stores the time bookings for projects and tasks in the local browser cache.",
     "caps": []
