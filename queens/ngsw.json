@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1777474317590,
+  "index": "/queens/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/queens/chunk-2NFLSA4Y.js",
+        "/queens/chunk-4LUZ62OR.js",
+        "/queens/chunk-FWZ6A4TO.js",
+        "/queens/favicon.ico",
+        "/queens/index.html",
+        "/queens/main-B62K7H36.js",
+        "/queens/manifest.webmanifest",
+        "/queens/styles-HIN4VP6K.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/queens/icons/icon-128x128.png",
+        "/queens/icons/icon-144x144.png",
+        "/queens/icons/icon-152x152.png",
+        "/queens/icons/icon-192x192.png",
+        "/queens/icons/icon-384x384.png",
+        "/queens/icons/icon-512x512.png",
+        "/queens/icons/icon-72x72.png",
+        "/queens/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/queens/chunk-2NFLSA4Y.js": "a26cd3e959939fe26b8cfc160ad681ba7b6b4468",
+    "/queens/chunk-4LUZ62OR.js": "787c6a675b1a2d1479a17dcfa728704537523073",
+    "/queens/chunk-FWZ6A4TO.js": "bb2a72b17a70d176402ce62f5cfa0c725572504c",
+    "/queens/favicon.ico": "1d87842da86a5026156b7960722580664a9c61b9",
+    "/queens/icons/icon-128x128.png": "bdd1cfb478ed3649f0c15eebfb222a7c3fd076d2",
+    "/queens/icons/icon-144x144.png": "d93107fa812cd9a01947bb5df86f1482f0dc23b2",
+    "/queens/icons/icon-152x152.png": "ad6563e0d7e08e42c42a23bb1b7d084a851d0a50",
+    "/queens/icons/icon-192x192.png": "51957a0d5f9b46f456183edd04464c5487186691",
+    "/queens/icons/icon-384x384.png": "c21e774b392f20c866e95afd4659e8e3d687ff4b",
+    "/queens/icons/icon-512x512.png": "96af5d60f7c8ef7e86609ad35078b575941fe901",
+    "/queens/icons/icon-72x72.png": "35dac2bd558a9655a0f591f253c1997bc0dfb535",
+    "/queens/icons/icon-96x96.png": "624cc62c7fde66577ece276efc1f87d1c9de5a2c",
+    "/queens/index.html": "7162e74b171a5b9d8198300c9d95cfc12eccf6f5",
+    "/queens/main-B62K7H36.js": "699f798effda16331e36cb082ff3724673961b6f",
+    "/queens/manifest.webmanifest": "302151587ba9bd2a8ddd17d762c23cb8e2f2569e",
+    "/queens/styles-HIN4VP6K.css": "b27fb879763d31b24b5e0fa3c14ceb4eda2e9786"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
