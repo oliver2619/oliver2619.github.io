@@ -34,6 +34,13 @@
     "description": "Just for some tests.",
     "caps": []
 }, {
+    "name": "Memory",
+    "url": "memory/index.html",
+    "tags": ["Game", "Mobile", "PC"],
+    "stage": "Develop",
+    "description": "Memory training game.",
+    "caps": []
+}, {
     "name": "Numbers",
     "url": "numbers/index.html",
     "tags": ["Game", "Mobile", "PC"],

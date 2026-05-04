@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       d="M 33.922298,57.58488 C 66.11468,55.407153 45.825449,50.094716 51.318062,44.281899 56.810675,38.469083 63.432655,53.86379 63.693266,28.881398 63.98227,1.1772503 0.63600713,-0.24681227 0.35582807,30.30471 0.18458302,48.977758 18.308021,58.641143 33.922298,57.58488 Z"
+       id="path1" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:#ff002b;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="path2"
+       cx="25.589987"
+       cy="50.023529"
+       r="4.7740297" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:#ffaab1;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="path2-3"
+       cx="38.92868"
+       cy="49.438549"
+       r="4.7740297" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:#808080;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="path2-3-6"
+       cx="56.277023"
+       cy="33.000122"
+       r="4.7740297" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:#ff7700;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="path2-2"
+       cx="13.514315"
+       cy="44.148262"
+       r="4.7740297" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="path2-2-5"
+       cx="7.5981588"
+       cy="31.947849"
+       r="4.7740297" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:#00c121;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="path2-2-5-1"
+       cx="13.170759"
+       cy="20.150305"
+       r="4.7740297" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:#00a8ff;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="path2-2-5-1-9"
+       cx="25.084869"
+       cy="14.851739"
+       r="4.7740297" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:#8f00ff;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="path2-2-5-1-9-5"
+       cx="38.583847"
+       cy="14.690186"
+       r="4.7740297" />
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:#823700;fill-opacity:1;stroke:#000000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;-inkscape-stroke:hairline"
+       id="path2-2-5-1-9-5-2"
+       cx="50.906956"
+       cy="20.594072"
+       r="4.7740297" />
+  </g>
+</svg>

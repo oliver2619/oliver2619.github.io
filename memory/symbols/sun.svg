@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <circle
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;stroke-width:0.884883;-inkscape-stroke:hairline"
+       id="path1"
+       cx="31.996582"
+       cy="31.996582"
+       r="28.195885" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 9.3691649,13.258253 0,6.8059028 V 0 H 6.6291261 L 13.523417,9.1923882 C 12.173855,10.358616 10.752346,11.662553 9.3691649,13.258253 Z"
+       id="path2" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 4.9497475,21.124815 0,18.649941 v 9.192389 l 3.0052038,0.08839 c 0.3720883,-2.682774 1.1042916,-4.825376 1.9445437,-6.805905 z"
+       id="path3" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="m 0,39.863145 3.2703689,-0.795496 c 0.5763014,2.1932 1.3099497,4.229054 2.1213203,6.187185 L 0,48.967145 Z"
+       id="path4" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 10.253048,51.707184 0,60.104077 V 64 h 9.5459417 l 5.6568543,-7.431457 c -1.95076,-1.520172 -3.702929,-3.10654 -4.949748,-4.861359 z"
+       id="path5" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 22.185476,59.573747 20.682873,64 h 11.313709 l -0.08839,-2.658486 c -3.634217,0.06626 -6.793614,-0.658839 -9.722716,-1.767767 z"
+       id="path6" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 39.686368,60.369241 40.570252,64 h 5.214912 l -2.386485,-4.779807 z"
+       id="path7" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 49.674251,55.419494 55.773047,64 H 64 v -1.951378 l -11.055381,-9.63433 z"
+       id="path8" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 56.303377,48.083262 64,53.121397 V 43.752232 L 59.580583,42.24963 c -0.781329,2.100081 -2.037406,3.962787 -3.277206,5.833632 z"
+       id="path9" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 61.253125,33.322407 64,33.410795 v -4.596194 l -2.835262,0.618719 z"
+       id="path10" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 59.131804,20.594485 64,18.473165 v -7.424622 l -6.901127,5.568466 z"
+       id="path11" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 53.298174,11.667262 64,1.3258252 V 0 H 51.176853 l -3.800699,6.8942912 c 2.355055,1.3369581 4.273146,2.9652257 5.92202,4.7729708 z"
+       id="path12" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 40.923805,4.331029 42.24963,0 h -6.187184 l -0.265165,3.2703689 z"
+       id="path13" />
+    <path
+       style="vector-effect:non-scaling-stroke;fill:#f6ff00;fill-opacity:1;stroke:#000000;-inkscape-stroke:hairline"
+       d="M 27.488777,3.0935922 26.870058,0 h -9.63433 l 2.65165,5.4800776 c 2.101628,-1.119624 4.558286,-1.9729756 7.601399,-2.3864854 z"
+       id="path14" />
+  </g>
+</svg>
