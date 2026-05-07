@@ -14,21 +14,16 @@
   <g
      id="layer1">
     <rect
-       style="vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.996191;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
+       style="vector-effect:non-scaling-stroke;fill:#ffffff;stroke-width:0.996191;-inkscape-stroke:hairline"
        id="rect2"
        width="64"
        height="64"
        x="0"
        y="0" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;font-family:Symbol;-inkscape-font-specification:Symbol;display:inline;vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;-inkscape-stroke:hairline"
-       x="7.230176"
-       y="60.462353"
-       id="text1"><tspan
-         id="tspan1"
-         x="7.230176"
-         y="60.462353"
-         style="font-size:85.3333px">S</tspan></text>
+    <path
+       d="M 52.063491,60.462353 H 9.5635083 V 58.920687 L 31.355166,32.795698 9.5635083,5.4623757 V 3.9623763 H 50.771824 L 52.063491,18.045704 H 50.355158 Q 49.730158,12.295706 47.146826,9.8373739 44.60516,7.3790416 39.771829,7.3790416 H 20.35517 L 38.14683,29.754032 18.105171,53.879022 h 22.083325 q 5.541664,0 8.291663,-2.083332 2.791665,-2.083333 4.624998,-7.83333 l 1.541666,0.333333 z"
+       id="text1"
+       style="-inkscape-font-specification:Symbol"
+       aria-label="S" />
   </g>
 </svg>
