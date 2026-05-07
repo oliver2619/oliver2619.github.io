@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1778188828686,
+  "index": "/memory/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/memory/chunk-2NFLSA4Y.js",
+        "/memory/chunk-GYBYS5Q4.js",
+        "/memory/chunk-MDU4CTIO.js",
+        "/memory/favicon.ico",
+        "/memory/index.html",
+        "/memory/main-24TUDJMR.js",
+        "/memory/manifest.webmanifest",
+        "/memory/styles-UZFOOVP4.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/memory/icons/icon-128x128.png",
+        "/memory/icons/icon-144x144.png",
+        "/memory/icons/icon-152x152.png",
+        "/memory/icons/icon-192x192.png",
+        "/memory/icons/icon-384x384.png",
+        "/memory/icons/icon-512x512.png",
+        "/memory/icons/icon-72x72.png",
+        "/memory/icons/icon-96x96.png",
+        "/memory/symbols/banana.svg",
+        "/memory/symbols/cloud.svg",
+        "/memory/symbols/colors.svg",
+        "/memory/symbols/flash.svg",
+        "/memory/symbols/heart.svg",
+        "/memory/symbols/moon.svg",
+        "/memory/symbols/music.svg",
+        "/memory/symbols/nonsmiley.svg",
+        "/memory/symbols/pi.svg",
+        "/memory/symbols/shamrock.svg",
+        "/memory/symbols/sigma.svg",
+        "/memory/symbols/smiley.svg",
+        "/memory/symbols/steak.svg",
+        "/memory/symbols/sun.svg",
+        "/memory/symbols/tshirt.svg",
+        "/memory/symbols/water.svg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/memory/chunk-2NFLSA4Y.js": "a26cd3e959939fe26b8cfc160ad681ba7b6b4468",
+    "/memory/chunk-GYBYS5Q4.js": "b3d95dde6c384a2ff00c7c63c983452dc40f933e",
+    "/memory/chunk-MDU4CTIO.js": "467734664fc60e3336a542c559a9111a85cab36e",
+    "/memory/favicon.ico": "60200bc9b358d308179af0fd0321dfa7d3aefd7b",
+    "/memory/icons/icon-128x128.png": "f26bfab1c0edef82c25858aeca377ff1a5fc2220",
+    "/memory/icons/icon-144x144.png": "022b8b4313ded19f713552a6fd6c30e7edc0f05e",
+    "/memory/icons/icon-152x152.png": "3fc2ba647942f69566b940f551ae04c8766a13d0",
+    "/memory/icons/icon-192x192.png": "585e40e2462cee7ebde84ec5168ddc0b811d9feb",
+    "/memory/icons/icon-384x384.png": "e662ccc7876a4933d037f7b4b993f5deb17fd3eb",
+    "/memory/icons/icon-512x512.png": "f53d31d41b2df03d2a765a351db38b40d5d9bedb",
+    "/memory/icons/icon-72x72.png": "f3ff7cd503cedf3d68e040c633a4c4326c6fa32a",
+    "/memory/icons/icon-96x96.png": "b188e311467f9a44de5969e7e4011c84cd5e8924",
+    "/memory/index.html": "c5fce945dbf797cb344fe1dc17881d778975516f",
+    "/memory/main-24TUDJMR.js": "1c37cda9abc33ccd071e8f35c3ff25ac13fcdb53",
+    "/memory/manifest.webmanifest": "7bb8d8e1e18df81bd96fde7e067f86e8508bf097",
+    "/memory/styles-UZFOOVP4.css": "0afa926878d829af23d7f83bfc96a33c9ac737ab",
+    "/memory/symbols/banana.svg": "abd032f71315cff26bf97c072a7fb8af30966137",
+    "/memory/symbols/cloud.svg": "733908025f0034de91fb33d12b2b797e270ab405",
+    "/memory/symbols/colors.svg": "027d893e467c1011b2fe258eb0fb2a11f5e250d2",
+    "/memory/symbols/flash.svg": "8c3de9da999594a3dbc8ecd47525ffd8b5fb381c",
+    "/memory/symbols/heart.svg": "5e7525c64e8d9a05cd40c6e640cd341a5d199797",
+    "/memory/symbols/moon.svg": "5605f9e5da21463ea24309ab058e78dbdc301803",
+    "/memory/symbols/music.svg": "08d0d4f81d0f07d361ced9c453841b5ccbc2b4de",
+    "/memory/symbols/nonsmiley.svg": "f73dc3e3bdfa30768d13dc97edb1961e97c2a193",
+    "/memory/symbols/pi.svg": "8b511bad1673ea3d6b4e80f4e932084724b819ab",
+    "/memory/symbols/shamrock.svg": "234cde974f47614df72dd70483e1bcc275e297a6",
+    "/memory/symbols/sigma.svg": "24892961bbf1f0eda88c37bf9dee658b1f8cb7b8",
+    "/memory/symbols/smiley.svg": "fa64ed09b9c135342eaa4fb031dcb6592666fd83",
+    "/memory/symbols/steak.svg": "db8b09ebdfbfd3a197a3c8cd8b36a5db3225d858",
+    "/memory/symbols/sun.svg": "24c726aa6a2bd41a0b36954dff93c821daf48c5f",
+    "/memory/symbols/tshirt.svg": "dc88c7aedfc0e7f1db5800c1e73a8f3cf9e582cb",
+    "/memory/symbols/water.svg": "d9f0eeb24b9ea3725ac73304258a365b87738e51"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}

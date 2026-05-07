@@ -12,7 +12,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
      id="defs1" /><g
-     id="layer1"><image
+     id="layer1"
+     transform="matrix(0.96082561,0,0,0.96082561,1.2537586,1.2535434)"><image
        width="71.415497"
        height="71.415497"
        preserveAspectRatio="none"

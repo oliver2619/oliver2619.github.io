@@ -13,25 +13,37 @@
      id="defs1" />
   <g
      id="layer1">
+    <rect
+       style="vector-effect:non-scaling-stroke;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.04498;-inkscape-stroke:hairline"
+       id="rect3"
+       width="64"
+       height="64"
+       x="0"
+       y="0"
+       ry="0" />
+    <path
+       id="rect2"
+       style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;-inkscape-stroke:hairline"
+       d="M 23.870681,15 55.468732,4 v 6.328659 L 23.794173,21 Z" />
     <ellipse
        style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline"
        id="path1"
-       cx="-2.985476"
-       cy="56.883156"
+       cx="-2.0005586"
+       cy="53.824459"
        rx="10.399822"
        ry="8.6804972"
        transform="rotate(-17.848845)" />
     <ellipse
        style="vector-effect:non-scaling-stroke;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:hairline"
        id="path1-6"
-       cx="30.27393"
-       cy="56.561131"
+       cx="31.258846"
+       cy="53.502434"
        rx="10.399822"
        ry="8.6804972"
        transform="rotate(-17.848845)" />
     <path
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
-       d="M 23.818583,54.431329 V 12.580431 L 55.43811,2.0967384 V 43.863767"
+       d="M 23.818583,51.141459 V 14.569654 L 55.43811,4.0859619 V 40.573897"
        id="path2" />
   </g>
 </svg>
