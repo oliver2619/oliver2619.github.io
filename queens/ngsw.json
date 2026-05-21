@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1779321088901,
+  "timestamp": 1779375115692,
   "index": "/queens/index.html",
   "assetGroups": [
     {
@@ -20,7 +20,7 @@
         "/queens/chunk-VPQY6747.js",
         "/queens/favicon.ico",
         "/queens/index.html",
-        "/queens/main-7QHY3A2R.js",
+        "/queens/main-UVOJVRCL.js",
         "/queens/manifest.webmanifest",
         "/queens/styles-42X74C6L.css"
       ],
@@ -64,8 +64,8 @@
     "/queens/icons/icon-512x512.png": "96af5d60f7c8ef7e86609ad35078b575941fe901",
     "/queens/icons/icon-72x72.png": "35dac2bd558a9655a0f591f253c1997bc0dfb535",
     "/queens/icons/icon-96x96.png": "624cc62c7fde66577ece276efc1f87d1c9de5a2c",
-    "/queens/index.html": "bb010539b6a945756b06d613beca77558f9b84b1",
-    "/queens/main-7QHY3A2R.js": "852a2e6db1c2e52cb52980b608f72d5e5ab4e503",
+    "/queens/index.html": "7db775bae354a148294f11950b2ac30214970999",
+    "/queens/main-UVOJVRCL.js": "f567e4198f537fcfd8beb31f22452876621dbb17",
     "/queens/manifest.webmanifest": "302151587ba9bd2a8ddd17d762c23cb8e2f2569e",
     "/queens/styles-42X74C6L.css": "9dca8365e41c099f3e67621281296af472f1ef78"
   },
