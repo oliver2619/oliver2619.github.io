@@ -51,8 +51,8 @@ function onInit(msg) {
         .instantiate(msg.wasmModule, imports)
         .then(instance => engineExports = instance.exports)
         .then(() => {
-        msg.fieldRating.forEach((r, f) => engineExports.setFieldRating(f, r));
-        engineExports.setRatingWeights(msg.maxRating, msg.dynamicWeight);
+        msg.fieldRating.forEach((r, f) => engineExports.setFieldRatingBonus(f, r));
+        engineExports.setMaxRating(msg.maxRating);
     });
 }
 function onMove(msg) {
