@@ -76,6 +76,13 @@
     "description": "If you are really bored.",
     "caps": []
 }, {
+    "name": "Schiffe",
+    "url": "schiffe/index.html",
+    "tags": ["Game", "Mobile", "PC"],
+    "stage": "Release",
+    "description": "Puzzle game. Place ships inside the board.",
+    "caps": []
+}, {
     "name": "Time is up",
     "url": "timeisup2/index.html",
     "tags": ["App", "Mobile", "PC"],
